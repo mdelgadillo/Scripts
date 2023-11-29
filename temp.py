@@ -14,7 +14,7 @@ urls = [
 interval = 900  # 15 minutes
 
 # Set up email parameters
-sender_email = ""
+sender_email = "test"
 sender_password = ""
 receiver_email = ""
 
